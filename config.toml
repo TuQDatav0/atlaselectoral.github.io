@@ -1,7 +1,7 @@
 theme = "hugo-hero-theme"
 baseURL = "https://atlaselectoral.github.io/"
 languageCode = "en-us"
-title = "Hugo Hero"
+title = "AET"
 
 [params]
   google_analytics_id=""
