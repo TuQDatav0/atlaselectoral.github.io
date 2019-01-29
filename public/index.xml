@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on AET</title>
+    <title>Home on Atlas Electoral de Tucumán</title>
     <link>/</link>
-    <description>Recent content in Home on AET</description>
+    <description>Recent content in Home on Atlas Electoral de Tucumán</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate>
@@ -63,7 +63,7 @@ Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati d
     </item>
     
     <item>
-      <title>About</title>
+      <title>AET</title>
       <link>/about/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       

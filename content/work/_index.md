@@ -1,7 +1,7 @@
 ---
-title: 'Work'
+title: 'Normativa'
 date: 2018-02-10T11:52:18+07:00
-heroHeading: 'Work'
-heroSubHeading: 'Our portfolio and previous projects'
+heroHeading: 'Biblioteca Virtual'
+heroSubHeading: 'Un poco más de txt'
 heroBackground: ''
 ---
