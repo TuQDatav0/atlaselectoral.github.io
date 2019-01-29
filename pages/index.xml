@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on AET</title>
+    <title>Pages on Atlas Electoral de Tucumán</title>
     <link>/pages/</link>
-    <description>Recent content in Pages on AET</description>
+    <description>Recent content in Pages on Atlas Electoral de Tucumán</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate>
@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>About</title>
+      <title>AET</title>
       <link>/about/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
