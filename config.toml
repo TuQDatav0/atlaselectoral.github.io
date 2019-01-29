@@ -1,6 +1,6 @@
 theme = "hugo-hero-theme"
 baseURL = "https://atlaselectoral.github.io/"
-languageCode = "en-us"
+languageCode = "es"
 title = "Atlas Electoral de Tucumán"
 
 [params]
@@ -20,7 +20,7 @@ title = "Atlas Electoral de Tucumán"
 [[menu.main]]
 	name = "Historia Electoral"
 	url = "/services/"
-    weight = 1
+    weight = 3
 
 [[menu.main]]
     name = "Normativa"
@@ -30,7 +30,7 @@ title = "Atlas Electoral de Tucumán"
 [[menu.main]]
     name = "Sobre el AET"
     url = "/about/"
-    weight = 3
+    weight = 1
 
 [[menu.main]]
     name = "Contacto"

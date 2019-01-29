@@ -1,9 +1,9 @@
 ---
 title: 'El proyecto'
 weight: 2
-background: ''
 button: 'Atlas Electoral de Tucumán'
 buttonLink: 'about'
+heroBackground: 'images/mapa_acuarela.jpeg'
 ---
 
 Breve texto descriptivo. 
