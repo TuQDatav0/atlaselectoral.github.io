@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
-    "image": "features/noun_branding_1885335.svg"
-  },
-  {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "HISTORIA",
+    "description": "Una línea de tiempo que recorre eventos electorales destacados de la la provincia y el país.",
     "image": "features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "DATOS",
+    "description": "Repositorio de datos electorales abiertos.",
     "image": "features/noun_3d modeling_1885342.svg"
+  },
+  {
+    "title": "NORMATIVA",
+    "description": "Compendio de regulaciones electorales.",
+    "image": "features/noun_branding_1885335.svg"
   }
 ]
