@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Page Not Found on Atlas Electoral de Tucumán</title>
-    <link>https://atlaselectoral.github.io/404/</link>
-    <description>Recent content in Page Not Found on Atlas Electoral de Tucumán</description>
+    <title>Oooops on Atlas Electoral de Tucumán</title>
+    <link>/404/</link>
+    <description>Recent content in Oooops on Atlas Electoral de Tucumán</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sat, 10 Feb 2018 10:52:03 +0700</lastBuildDate>
     
-	<atom:link href="https://atlaselectoral.github.io/404/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/404/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
