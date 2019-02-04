@@ -2,8 +2,8 @@
 title: 'Historia Electoral'
 date: 2018-02-10T11:52:18+07:00
 heroHeading: 'Línea de tiempo'
-heroSubHeading: 'Acá va un poco de txt'
-heroBackground: ''
+heroSubHeading: 'Elecciones, lefislación, intervenciones y más eventos destacados.'
+heroBackground: 'https://github.com/TuQmano/images/blob/master/timeline.png?raw=true'
 ---
 
 
