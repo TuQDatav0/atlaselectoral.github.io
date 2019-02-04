@@ -4,7 +4,7 @@ date: 2018-12-06T09:29:16+10:00
 layout: 'aboutlayout'
 heroHeading: 'Atlas Electoral de Tucumán'
 heroSubHeading: "Acá va un texto."
-heroBackground: 'image/mapa_acuarela.jpeg'
+heroBackground: ''
 ---
 
 <div>

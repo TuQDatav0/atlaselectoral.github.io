@@ -1,14 +1,13 @@
 ---
-title: 'Cargo Terminal'
+title: 'Legislación'
 date: 2018-11-18T12:33:46+10:00
 draft: false
-weight: 3
-heroHeading: 'Cargo Terminal'
-heroSubHeading: 'Dockyard construction planning and review.'
-heroBackground: 'https://source.unsplash.com/tjX_sniNzgQ/1600x400'
-thumbnail: 'https://source.unsplash.com/tjX_sniNzgQ/400x300'
-images: ['https://source.unsplash.com/random/400x600/?nature', 
-'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings','https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
+weight: 1
+heroHeading: ''
+heroSubHeading: 'Legislación'
+heroBackground: 'https://img.lagaceta.com.ar/fotos/notas/2015/04/19/tmb1_634171_201504182040280000003.jpg'
+thumbnail: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Constituci%C3%B3n_Nacional_Argentina_1853_-_p%C3%A1gina_1.jpeg/800px-Constituci%C3%B3n_Nacional_Argentina_1853_-_p%C3%A1gina_1.jpeg'
+images: []
 ---
 
 Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
