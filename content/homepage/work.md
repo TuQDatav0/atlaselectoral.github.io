@@ -1,12 +1,8 @@
 ---
-title: 'Biblioteca Virtual'
+title: ''
 weight: 1
-background: ''
+background: 'https://github.com/TuQmano/images/blob/master/library_files.png?raw=true'
 button: 'Normativa'
 buttonLink: 'work'
 ---
-
-Este esapcio está para listar la normativa electoral de la Provincia de Tucumán. 
-
-Ponemos alguna imagen a la izquierda?
 
