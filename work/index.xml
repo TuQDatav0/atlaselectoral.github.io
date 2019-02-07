@@ -2,40 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Biblioteca Virtual on Atlas Electoral de Tucumán</title>
-    <link>https://atlaselectoral.github.io/work/</link>
+    <link>/work/</link>
     <description>Recent content in Biblioteca Virtual on Atlas Electoral de Tucumán</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate>
     
-	<atom:link href="https://atlaselectoral.github.io/work/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/work/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Legislación</title>
-      <link>https://atlaselectoral.github.io/work/cargo-terminal/</link>
+      <link>/work/cargo-terminal/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://atlaselectoral.github.io/work/cargo-terminal/</guid>
-      <description>Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa! Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus esse iam feres mortis Plurima.</description>
+      <guid>/work/cargo-terminal/</guid>
+      <description>Año - Número - Tema
+1870 - Ley Nº312 - Declara necesaria la reforma
+1872 - Ley Nº351 - Convoca elección de convencionales.
+1884 - Ley Nº505 - Declara cesante la Convención de 1872 .
+1906 - Ley Nº874 - Reforma de la Constitución Provincial.
+1906 - Ley Nº880 - Reforma de la Constitución Provincial.
+1983 - Ley Nº5529 - Orgánica de las Municipalidades.
+1983 - Ley Nº5454 - Orgánica de los Partidos Políticos.</description>
     </item>
     
     <item>
       <title>Conceptos básicos</title>
-      <link>https://atlaselectoral.github.io/work/modern-hospital/</link>
+      <link>/work/modern-hospital/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://atlaselectoral.github.io/work/modern-hospital/</guid>
+      <guid>/work/modern-hospital/</guid>
       <description>Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?</description>
     </item>
     
     <item>
       <title>Goegrafía Electoral</title>
-      <link>https://atlaselectoral.github.io/work/fall-plaza/</link>
+      <link>/work/fall-plaza/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://atlaselectoral.github.io/work/fall-plaza/</guid>
+      <guid>/work/fall-plaza/</guid>
       <description>La siguiente visualización permite inspeccionar los circuitos electorales en los que se divide la Provincia de Tucumán. Una recopilación de documentos, que incluye documentos técnicos y legislación (provincial y nacional), dan cuenta de varias de las modificaciones sobre los límites de la geografía del distrito.
  </description>
     </item>
