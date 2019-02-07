@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Atlas Electoral de Tucumán</title>
-    <link>/pages/</link>
+    <link>https://atlaselectoral.github.io/pages/</link>
     <description>Recent content in Pages on Atlas Electoral de Tucumán</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate>
     
-	<atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://atlaselectoral.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>AET</title>
-      <link>/about/</link>
+      <link>https://atlaselectoral.github.io/about/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://atlaselectoral.github.io/about/</guid>
       <description> Acá va algo más de texto
       Un poco más de texto
       #
@@ -26,10 +26,10 @@ Contactanos      </description>
     
     <item>
       <title>History</title>
-      <link>/history/</link>
+      <link>https://atlaselectoral.github.io/history/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
-      <guid>/history/</guid>
+      <guid>https://atlaselectoral.github.io/history/</guid>
       <description>About Heading Eso donde esta?</description>
     </item>
     
