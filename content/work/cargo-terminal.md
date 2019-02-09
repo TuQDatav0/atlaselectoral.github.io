@@ -9,6 +9,8 @@ heroBackground: 'https://img.lagaceta.com.ar/fotos/notas/2015/04/19/tmb1_634171_
 thumbnail: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Constituci%C3%B3n_Nacional_Argentina_1853_-_p%C3%A1gina_1.jpeg/800px-Constituci%C3%B3n_Nacional_Argentina_1853_-_p%C3%A1gina_1.jpeg'
 images: []
 ---
+
+El siguiente listado reune buena parte de la normativa sobre la que se organizó la competencia electoral en la provincia de Tucumán. Desde la ley que declaró necesaria la reforma constitucional el 30 de marzo de 1870 (Nº312), pasando por la que declara el derecho de sufragio a los extranjeros en el año 2007 (Nº7984). 
  
 Año -	Número - Tema
 
@@ -20,13 +22,19 @@ Año -	Número - Tema
 
 **1906** - Ley Nº874	- [Reforma de la Constitución Provincial](https://www.legislaturadetucuman.gob.ar/leyesydecretos/imprimirley.php?num=874&pal1=&pal2=&pal3=).
 
+- Convoca a elección constituyente.
+
 **1906** - Ley Nº880	- [Reforma de la Constitución Provincial](https://www.legislaturadetucuman.gob.ar/leyesydecretos/imprimirley.php?num=880&pal1=&pal2=&pal3=).
+
+- Solo dos meses después de sancionada la ley Nº 889 la legislatura provincial vuelve a conovar a elecciones constituyentes para reformar parcialmente la Constitución especificando artículos determinados sobre (i) renovación de las cámaras, (ii) naturaleza del juicio político, (iii) duración de mandatos, (iv) número de minsitros dentro del Poder Ejecutivo y (v) la naturaleza y organización del régimen municipal, entre otros. 
 
 **1983** - Ley Nº5529	- [Orgánica de las Municipalidades](https://www.legislaturadetucuman.gob.ar/leyesydecretos/TxtCon/TC5529.pdf).
 
+- Establece el ordenamiento de los gobiernos locales en general y las atribuciones y obligaciones de los Concejos Delibertantes, las Intendenecias y sus miembros en particular, 
+
 **1983** - Ley Nº5454	- [Orgánica de los Partidos Políticos.](https://www.legislaturadetucuman.gob.ar/leyesydecretos/LeyPDF/LY5454.pdf).
 
-- Crea la Junta Electoral
+- Crea la Junta Electoral; establece las pautas de reconocimiento de los partidos políticos (i) provinciales y (ii) municipales; regulación general y particular relativa las fuerzas, tales como su nombre, programas o bases de acción política, regimenes de afilicaciones, entre otros.  
 
 **1991** - Ley Nº6147	- [Sistema electoral](https://www.legislaturadetucuman.gob.ar/leyesydecretos/imprimirley.php?num=6147&pal1=&pal2=&pal3=).
 

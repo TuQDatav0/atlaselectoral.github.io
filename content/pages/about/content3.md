@@ -6,6 +6,4 @@ button: 'Contactanos'
 buttonLink: 'contact'
 ---
 
-#
-
-Y una linea de txt
+Ante cualquier duda o sugerencia
