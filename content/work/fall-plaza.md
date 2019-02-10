@@ -4,12 +4,12 @@ date: 2018-11-18T12:33:46+10:00
 draft: false
 weight: 3
 heroHeading: 'Circuitos Electorales'
-heroSubHeading: 'Fecha de publicación????'
+heroSubHeading: ''
 heroBackground: 'https://github.com/TuQmano/images/blob/master/leaflet_tuc.png?raw=true'
 thumbnail: 'https://github.com/TuQmano/images/blob/master/leaflet_tuc.png?raw=true'
 images: []
 ---
 
-La siguiente visualización permite inspeccionar los circuitos electorales en los que se divide la Provincia de Tucumán. Una [recopilación de documentos](https://raw.githubusercontent.com/TuQmano/images/master/geo.pdf), que incluye documentos técnicos y legislación  (provincial y nacional), dan cuenta de varias de las modificaciones sobre los límites de la geografía del distrito.  
+La siguiente visualización permite inspeccionar los circuitos electorales en los que se divide la Provincia de Tucumán. Una [recopilación de documentos, que incluye documentos técnicos y legislación  (provincial y nacional)](https://raw.githubusercontent.com/TuQmano/images/master/geo.pdf), da cuenta de varias modificaciones sobre los límites de la geografía del distrito.  
 
-<iframe id="iframe" src="/leaflet/leafMap.html" width="600" height="600" scrolling="no" frameborder="0"></iframe>
+<iframe id="iframe" src="/leaflet/leafMap.html" width="700" height="600" scrolling="no" frameborder="0"></iframe>
