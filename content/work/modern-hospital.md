@@ -2,11 +2,11 @@
 title: 'Guía Electoral'
 date: 2018-11-18T12:33:46+10:00
 draft: true
-weight: 2
+weight: 1
 heroHeading: 'Guía Electoral'
 heroSubHeading: ''
 heroBackground: ''
-thumbnail: 'https://github.com/atlaselectoral/atlaselectoral.github.io/blob/sources/public/images/logo_full.jpeg?raw=true'
+thumbnail: https://github.com/atlaselectoral/atlaselectoral.github.io/blob/sources/public/images/logo.png?raw=true'
 images: []
 ---
 

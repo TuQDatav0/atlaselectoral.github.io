@@ -2,7 +2,7 @@
 title: 'Goegrafía Electoral'
 date: 2018-11-18T12:33:46+10:00
 draft: false
-weight: 3
+weight: 2
 heroHeading: 'Circuitos Electorales'
 heroSubHeading: ''
 heroBackground: 'https://github.com/TuQmano/images/blob/master/leaflet_tuc.png?raw=true'

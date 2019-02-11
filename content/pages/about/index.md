@@ -4,7 +4,7 @@ date: 2018-12-06T09:29:16+10:00
 layout: 'aboutlayout'
 heroHeading: 'Atlas Electoral'
 heroSubHeading: "TUCUMÁN"
-heroBackground: ''
+heroBackground: 'https://github.com/atlaselectoral/atlaselectoral.github.io/blob/sources/public/images/logo.png?raw=true'
 ---
 <div>
 {{< content-strip-left "/pages/about" "content1" >}}

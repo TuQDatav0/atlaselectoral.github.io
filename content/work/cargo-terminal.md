@@ -2,7 +2,7 @@
 title: 'Legislación'
 date: 2018-11-18T12:33:46+10:00
 draft: false
-weight: 1
+weight: 3
 heroHeading: ''
 heroSubHeading: 'Legislación'
 heroBackground: 'https://img.lagaceta.com.ar/fotos/notas/2015/04/19/tmb1_634171_201504182040280000003.jpg'
