@@ -10,7 +10,7 @@ thumbnail: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Constituci
 images: []
 ---
 
-El siguiente listado reune buena parte de la normativa sobre la que se organizó la competencia electoral en la provincia de Tucumán. Desde la ley que declaró necesaria la reforma constitucional el 30 de marzo de 1870 (Nº312), pasando por la que declara el derecho de sufragio a los extranjeros en el año 2007 (Nº7984). 
+El siguiente listado reune buena parte de la normativa sobre la que se organizó la competencia electoral en la provincia de Tucumán. Desde la ley que declaró necesaria la reforma constitucional el 30 de marzo de 1870 (Nº312), pasando por la que declara el derecho de sufragio a los extranjeros en el año 2007 (Nº7984), hasta la caducidad de personería política de los partidos en 2014.  
  
 Año -	Número - Tema
 
@@ -27,6 +27,8 @@ Año -	Número - Tema
 **1906** - Ley Nº880	- [Reforma de la Constitución Provincial](https://www.legislaturadetucuman.gob.ar/leyesydecretos/imprimirley.php?num=880&pal1=&pal2=&pal3=).
 
 - Solo dos meses después de sancionada la ley Nº 889 la legislatura provincial vuelve a conovar a elecciones constituyentes para reformar parcialmente la Constitución especificando artículos determinados sobre (i) renovación de las cámaras, (ii) naturaleza del juicio político, (iii) duración de mandatos, (iv) número de minsitros dentro del Poder Ejecutivo y (v) la naturaleza y organización del régimen municipal, entre otros. 
+
+**1983** - Ley Nº 19.945 - [Código Electoral Nacional](http://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/19442/texact.htm) 
 
 **1983** - Ley Nº5529	- [Orgánica de las Municipalidades](https://www.legislaturadetucuman.gob.ar/leyesydecretos/TxtCon/TC5529.pdf).
 
@@ -46,4 +48,18 @@ Año -	Número - Tema
 
 **2007** - Ley Nº7948	- [Derecho de sufragio extranjero](https://www.legislaturadetucuman.gob.ar/leyesydecretos/imprimirley.php?num=7948&pal1=&pal2=&pal3=).
 
+**201** - Ley Nº 8416	- [Junta Electoral](https://www.legislaturadetucuman.gob.ar/leyesydecretos/leyes.php)
 
+Modifica _Ley Nº 5454_. Sobre la integración de la Junta Electoral.
+
+**2012** -	Ley Nº 26.774 - [Ley naciona de ciudadanía Argentina](http://servicios.infoleg.gob.ar/infolegInternet/anexos/200000-204999/204176/norma.html). 
+
+Voto Joven	
+
+**2012** -	Ley Nº 8532	- [Régimen  Electoral Provincial](https://www.legislaturadetucuman.gob.ar/leyesydecretos/imprimirley.php?num=8532). 
+
+Modifica Ley N° 7876 (Voto a los 16 años).	
+
+**2014** - Ley Nº 8703	- [Caducidad de la personería política de los partidos](https://www.legislaturadetucuman.gob.ar/leyesydecretos/leyes.php).
+
+Modifica Ley Nº 5454.
