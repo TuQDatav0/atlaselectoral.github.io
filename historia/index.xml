@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Inicio on Atlas Electoral de Tucumán</title>
-    <link>/</link>
-    <description>Recent content in Inicio on Atlas Electoral de Tucumán</description>
+    <title>Historia Electoral on Atlas Electoral de Tucumán</title>
+    <link>/historia/</link>
+    <description>Recent content in Historia Electoral on Atlas Electoral de Tucumán</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/historia/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -23,26 +23,6 @@ Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cu
     </item>
     
     <item>
-      <title>Guía Electoral</title>
-      <link>/norma/modern-hospital/</link>
-      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      
-      <guid>/norma/modern-hospital/</guid>
-      <description>¿QUÉ SON LAS ELECCIONES? Las elecciones son vitales para la democracia en tanto su propósito es la selección de los representantes del pueblo. Entonces, una elección es un mecanismo institucionalizado a partir del cual los individuos expresan sus preferencias sobre quiénes desean que sean sus representantes en los cargos políticos.
-Pueden ser directas, donde los propios electores deciden inmediatamente quienes ocuparan los cargos, o indirectas donde los electores votan por un número de personas – delegados o representantes – que realizarán la elección definitiva de quienes ocupen el cargo público.</description>
-    </item>
-    
-    <item>
-      <title>Goegrafía Electoral</title>
-      <link>/norma/fall-plaza/</link>
-      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      
-      <guid>/norma/fall-plaza/</guid>
-      <description>La siguiente visualización permite inspeccionar los circuitos electorales en los que se divide la Provincia de Tucumán. Una recopilación de archivos, que incluye documentos técnicos y legislación (provincial y nacional), da cuenta de varias modificaciones sobre los límites de la geografía del distrito.
- En el repositorio del Atlas Electoral de Tucumán puede encontrarse material para replicar esta visualización y trabajar con la geografía. Una fuente oficial de las geometrías está disponible en el sitio oficial de la Cámara Nacional Electoral.</description>
-    </item>
-    
-    <item>
       <title>Tax Filing</title>
       <link>/historia/tax-filing/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
@@ -50,34 +30,6 @@ Pueden ser directas, donde los propios electores deciden inmediatamente quienes 
       <guid>/historia/tax-filing/</guid>
       <description>Lorem markdownum Achaica revolutaque amore, penitus puppes nec furit, clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem Cretaeas enim ipse pectora excusat candentibus fertur? Furtiva Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
  Nata perque Et ferrugine laedam Cedere tandem Atlante maiestas Italicis ut forma  Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum precor facitote nubemque. Potuit Celadon Martem?</description>
-    </item>
-    
-    <item>
-      <title>Legislación</title>
-      <link>/norma/cargo-terminal/</link>
-      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      
-      <guid>/norma/cargo-terminal/</guid>
-      <description>El siguiente listado reune buena parte de la normativa sobre la que se organizó la competencia electoral en la provincia de Tucumán. Desde la ley que declaró necesaria la reforma constitucional el 30 de marzo de 1870 (Nº312), pasando por la que declara el derecho de sufragio a los extranjeros en el año 2007 (Nº7984), hasta la caducidad de personería política de los partidos en 2014.
-Año - Número - Tema</description>
-    </item>
-    
-    <item>
-      <title>AET</title>
-      <link>/aet/</link>
-      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
-      
-      <guid>/aet/</guid>
-      <description>ATLAS ELETORAL En Argentina la disponibilidad de datos electorales, aunque creciente, sigue siendo escasa. Existen organizaciones públicas que paulatinamente han comenzado a recopilar y publicar parte de la información electoral que estas mismas generan o administran. Fuentes oficiales como la Dirección Nacional Electoral , dependiente del Ministerio del Interior de la República Argentina, que tiene en su sitio web información de procesos electorales que van del año 2009 al 2017, o la Cámara Nacional Electoral que publica acordadas, normas y resoluciones sobre la administración de los procesos electorales y una compilación de la geografía electoral.</description>
-    </item>
-    
-    <item>
-      <title>History</title>
-      <link>/history/</link>
-      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
-      
-      <guid>/history/</guid>
-      <description>About Heading Eso donde esta?</description>
     </item>
     
     <item>

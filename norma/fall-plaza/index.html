@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Contacto - Atlas Electoral de Tucumán</title>
+  <title>Goegrafía Electoral - Atlas Electoral de Tucumán</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
   <link rel="icon" href="/faviconTUC.png">
@@ -18,7 +18,7 @@
 
 </head>
 
-<body class='page page-contact'>
+<body class='page page-work-single'>
   <div id="main-menu-mobile" class="main-menu-mobile">
   <ul>
     
@@ -44,7 +44,7 @@
       </a>
     </li>
     
-    <li class="menu-item-contacto active">
+    <li class="menu-item-contacto">
       <a href="/contact/">
         
         <span>Contacto</span>
@@ -87,7 +87,7 @@
       </a>
     </li>
     
-    <li class="menu-item-contacto active">
+    <li class="menu-item-contacto">
       <a href="/contact/">
         
         <span>Contacto</span>
@@ -104,61 +104,29 @@
   </div>
 </div>      
     
-<div class="intro intro-small">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <h1>Contacto</h1>
-      </div>
+<div id="hero" class="hero-image hero-image-setheight" style="background-image: url('https://github.com/TuQmano/images/blob/master/leaflet_tuc.png?raw=true')">
+  <div class="container ">
+    <div class="hero-text">
+      <span class="hero-section"></span>
+      <h1>Circuitos Electorales</h1>
+      <p></p>
     </div>
   </div>
 </div>
-<div class="container">
-  <div class="row">
+  
+<div class="container pt-4 pt-md-10 pb-4 pb-md-10">
+  <div class="row justify-content-start">
     <div class="col-12 col-md-8">
-      <p>Txt descriptivo de página de contacto.</p>
+      <div class="work work-single">
+        <div class="content"><p>La siguiente visualización permite inspeccionar los circuitos electorales en los que se divide la Provincia de Tucumán. Una <a href="https://raw.githubusercontent.com/TuQmano/images/master/geo.pdf">recopilación de archivos, que incluye documentos técnicos y legislación  (provincial y nacional)</a>, da cuenta de varias modificaciones sobre los límites de la geografía del distrito.</p>
 
-      <ul>
-        <li><strong>Teléfono: </strong>(0381 - 422222X)</li>
-        <li><strong>Email: </strong><a href="mailto:atlaselectoral@tucuman.gob.ar">
-            atlaselectoral@tucuman.gob.ar</a></li>
-        
-      </ul>
-      <h4 class="mt-4">Horarios de atención</h4>
-      <table class="table table-sm opening-hours-table">
-        <tr>
-          <td class="day font-weight-bold">Lunes</td>
-          <td class="opens">8:30am</td>
-          <td>-</td>
-          <td class="closes">5:00pm</td>
-        </tr>
-        <tr>
-          <td class="day font-weight-bold">Martes</td>
-          <td class="opens">8:30am</td>
-          <td>-</td>
-          <td class="closes">5:00pm</td>
-        </tr>
-        <tr>
-          <td class="day font-weight-bold">Miércoles</td>
-          <td class="opens">8:30am</td>
-          <td>-</td>
-          <td class="closes">5:00pm</td>
-        </tr>
-        <tr>
-          <td class="day font-weight-bold">Jueves</td>
-          <td class="opens">8:30am</td>
-          <td>-</td>
-          <td class="closes">5:00pm</td>
-        </tr>
-        <tr>
-          <td class="day font-weight-bold">Viernes</td>
-          <td class="opens">8:30am</td>
-          <td>-</td>
-          <td class="closes">5:00pm</td>
-        </tr>
-       
-      </table>
+<iframe id="iframe" src="/leaflet/leafMap.html" width="700" height="600" scrolling="no" frameborder="0"></iframe>
+
+<p>En el repositorio del <em>Atlas Electoral de Tucumán</em> puede encontrarse material para replicar esta visualización y trabajar con la geografía. Una fuente oficial de las geometrías está disponible en el sitio oficial de la <a href="https://mapa2.electoral.gov.ar/descargas/">Cámara Nacional Electoral</a>.</p>
+</div>
+      </div>
     </div>
+    
   </div>
 </div>
 
@@ -201,7 +169,13 @@
   
 
   
+
+
+
+
+  <script type="text/javascript" src="/js/services.min.46c6f2b4ab4aff69da141cabe222e83b97d8c0aa0db461403d37a36780290bf2.js"></script>
   
+
 
   
   <script type="text/javascript" src="/js/scripts.min.bf1e1f7ae8e03db5f012356e825843facdff51c0a559cb0d27fe2bbe1db405c2.js"></script>
