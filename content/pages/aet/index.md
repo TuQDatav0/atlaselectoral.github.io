@@ -7,15 +7,15 @@ heroSubHeading: "TUCUMÁN"
 heroBackground: 'https://github.com/atlaselectoral/atlaselectoral.github.io/blob/sources/public/images/logo.png?raw=true'
 ---
 <div>
-{{< content-strip-left "/pages/about" "content1" >}}
+{{< content-strip-left "/pages/aet" "content1" >}}
 </div>
 
 
 <div>
-{{< content-strip-right "/pages/about" "content2" >}}
+{{< content-strip-right "/pages/aet" "content2" >}}
 </div>
 
 
 <div>
-{{< content-strip-center "/pages/about" "content3" >}}
+{{< content-strip-center "/pages/aet" "content3" >}}
 </div>

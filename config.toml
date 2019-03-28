@@ -19,17 +19,17 @@ title = "Atlas Electoral de Tucumán"
 
 [[menu.main]]
 	name = "Historia Electoral"
-	url = "/services/"
+	url = "/historia/"
     weight = 3
 
 [[menu.main]]
     name = "Normativa"
-    url = "/work/"
+    url = "/norma/"
     weight = 2
 
 [[menu.main]]
     name = "Sobre el AET"
-    url = "/about/"
+    url = "/aet/"
     weight = 1
 
 [[menu.main]]
