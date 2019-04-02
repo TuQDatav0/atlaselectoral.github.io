@@ -10,7 +10,7 @@ thumbnail: 'https://raw.githubusercontent.com/atlaselectoral/img/master/circuito
 images: []
 ---
 
-La siguiente visualización permite inspeccionar los circuitos electorales en los que se divide la Provincia de Tucumán. Una [recopilación de archivos, que incluye documentos técnicos y legislación  (provincial y nacional)](https://raw.githubusercontent.com/TuQmano/images/master/geo.pdf), da cuenta de varias modificaciones sobre los límites de la geografía del distrito.  
+La siguiente visualización permite inspeccionar los circuitos electorales en los que se divide la Provincia de Tucumán. Una [recopilación de archivos, que incluye documentos técnicos y legislación  (provincial y nacional)](https://raw.githubusercontent.com/atlaselectoral/img/blob/master/geo.pdf), da cuenta de varias modificaciones sobre los límites de la geografía del distrito.
 
 
 <iframe id="iframe" src="/leaflet/leafMap.html" width="700" height="600" scrolling="no" frameborder="0"></iframe>
