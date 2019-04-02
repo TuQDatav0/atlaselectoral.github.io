@@ -6,7 +6,7 @@ weight: 3
 heroHeading: ''
 heroSubHeading: 'Legislación'
 heroBackground: 'https://img.lagaceta.com.ar/fotos/notas/2015/04/19/tmb1_634171_201504182040280000003.jpg'
-thumbnail: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Constituci%C3%B3n_Nacional_Argentina_1853_-_p%C3%A1gina_1.jpeg/800px-Constituci%C3%B3n_Nacional_Argentina_1853_-_p%C3%A1gina_1.jpeg'
+thumbnail: 'https://raw.githubusercontent.com/atlaselectoral/img/master/constitucion.png?raw=true'
 images: []
 ---
 

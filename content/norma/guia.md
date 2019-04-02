@@ -6,7 +6,7 @@ weight: 1
 heroHeading: 'Guía Electoral'
 heroSubHeading: ''
 heroBackground: ''
-thumbnail: https://github.com/atlaselectoral/atlaselectoral.github.io/blob/sources/public/images/logo.png?raw=true'
+thumbnail: 'https://raw.githubusercontent.com/atlaselectoral/img/master/logo_aet.png?raw=true'
 images: []
 ---
 

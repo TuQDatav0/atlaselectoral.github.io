@@ -5,8 +5,8 @@ draft: false
 weight: 2
 heroHeading: 'Circuitos Electorales'
 heroSubHeading: ''
-heroBackground: 'https://github.com/TuQmano/images/blob/master/leaflet_tuc.png?raw=true'
-thumbnail: 'https://github.com/TuQmano/images/blob/master/leaflet_tuc.png?raw=true'
+heroBackground: 'https://raw.githubusercontent.com/atlaselectoral/img/master/circuitos_leaflet.png?raw=true'
+thumbnail: 'https://raw.githubusercontent.com/atlaselectoral/img/master/circuitos_leaflet.png?raw=true'
 images: []
 ---
 
