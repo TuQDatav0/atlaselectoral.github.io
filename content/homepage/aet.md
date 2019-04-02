@@ -1,7 +1,7 @@
 ---
 title: ''
 weight: 2
-button: 'Atlas Electoral de Tucumán'
-buttonLink: 'aet'
+button: 'REPOSITORIO'
+buttonLink: 'https://github.com/atlaselectoral'
 heroBackground: ''
 ---
