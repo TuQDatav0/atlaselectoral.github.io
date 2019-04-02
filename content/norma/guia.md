@@ -183,7 +183,5 @@ Votos en blanco: cuando el sobre estuviere vacío o con un papel de cualquier co
 
 4. -El sobre se entrega al empleado de la empresa de correo simultáneamente con la urna electoral (artículo 103 del CEN).Telegrama de la mesa, artículo 105 del CEN.
 
- 
-
 
 

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Atlas Electoral de Tucumán</title>
-    <link>https://atlaselectoral.github.io/pages/</link>
+    <link>/pages/</link>
     <description>Recent content in Pages on Atlas Electoral de Tucumán</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate>
     
-	<atom:link href="https://atlaselectoral.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>AET</title>
-      <link>https://atlaselectoral.github.io/aet/</link>
+      <link>/aet/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
-      <guid>https://atlaselectoral.github.io/aet/</guid>
+      <guid>/aet/</guid>
       <description>ATLAS ELETORAL En Argentina la disponibilidad de datos electorales, aunque creciente, sigue siendo escasa. Existen organizaciones públicas que paulatinamente han comenzado a recopilar y publicar parte de la información electoral que estas mismas generan o administran. Fuentes oficiales como la Dirección Nacional Electoral , dependiente del Ministerio del Interior de la República Argentina, que tiene en su sitio web información de procesos electorales que van del año 2009 al 2017, o la Cámara Nacional Electoral que publica acordadas, normas y resoluciones sobre la administración de los procesos electorales y una compilación de la geografía electoral.</description>
     </item>
     
     <item>
       <title>History</title>
-      <link>https://atlaselectoral.github.io/history/</link>
+      <link>/history/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
-      <guid>https://atlaselectoral.github.io/history/</guid>
+      <guid>/history/</guid>
       <description>About Heading Eso donde esta?</description>
     </item>
     
