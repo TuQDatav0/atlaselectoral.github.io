@@ -10,9 +10,9 @@ thumbnail: 'https://raw.githubusercontent.com/atlaselectoral/img/master/constitu
 images: []
 ---
 
-El siguiente listado reune buena parte de la normativa sobre la que se organizó la competencia electoral en la provincia de Tucumán. Desde la ley que declaró necesaria la reforma constitucional el 30 de marzo de 1870 (Nº312), pasando por la que declara el derecho de sufragio a los extranjeros en el año 2007 (Nº7984), hasta la caducidad de personería política de los partidos en 2014.  
+El siguiente listado es un compendio de aquella legislación provincial que determina las bases de la organización política institucional y electoral de la provincia de Tucumán a partir de 1870. Se incorpora asimismo legislación de importancia en materia electoral nacional como el Código Electoral Nacional, entre otras. 
  
-Año -	Número - Tema
+### Año -	Número - Tema
 
 **1870** - Ley Nº312	- [Declara necesaria la reforma](https://www.legislaturadetucuman.gob.ar/leyesydecretos/imprimirley.php?num=312&pal1=&pal2=&pal3=)
 
