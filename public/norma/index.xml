@@ -2,41 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Biblioteca Virtual on Atlas Electoral de Tucumán</title>
-    <link>/norma/</link>
+    <link>http://atlaselectoral.tucuman.gov.ar/norma/</link>
     <description>Recent content in Biblioteca Virtual on Atlas Electoral de Tucumán</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate>
     
-	<atom:link href="/norma/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://atlaselectoral.tucuman.gov.ar/norma/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Guía Electoral</title>
-      <link>/norma/guia/</link>
-      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      
-      <guid>/norma/guia/</guid>
-      <description>Preguntas frecuentes que nos hacemos los electores. ¿QUÉ SON LAS ELECCIONES? Las elecciones son vitales para la democracia en tanto que su propósito es la selección de los representantes del pueblo. Entonces, una elección es un mecanismo institucionalizado a partir del cual los individuos expresan sus preferencias sobre quiénes desean que sean sus representantes en los cargos políticos.
-Pueden ser directas, donde los propios electores deciden inmediatamente quienes ocuparan los cargos, o indirectas, donde los electores votan por un número de personas – delegados o representantes – que realizarán la elección definitiva de quienes ocupen el cargo público.</description>
-    </item>
     
     <item>
       <title>Goegrafía Electoral</title>
-      <link>/norma/geo/</link>
+      <link>http://atlaselectoral.tucuman.gov.ar/norma/geo/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>/norma/geo/</guid>
+      <guid>http://atlaselectoral.tucuman.gov.ar/norma/geo/</guid>
       <description>La siguiente visualización permite inspeccionar los circuitos electorales en los que se divide la Provincia de Tucumán. Una recopilación de archivos, que incluye documentos técnicos y legislación (provincial y nacional), da cuenta de varias modificaciones sobre los límites de la geografía del distrito.
  En el repositorio del Atlas Electoral de Tucumán podrá encontrarse material para replicar esta visualización y trabajar con la geografía. Una fuente oficial de las geometrías de Argentina se descargo de la Cámara Nacional Electoral.</description>
     </item>
     
     <item>
       <title>Legislación</title>
-      <link>/norma/legis/</link>
+      <link>http://atlaselectoral.tucuman.gov.ar/norma/legis/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>/norma/legis/</guid>
+      <guid>http://atlaselectoral.tucuman.gov.ar/norma/legis/</guid>
       <description>El siguiente listado es un compendio de aquella legislación provincial que determina las bases de la organización política institucional y electoral de la provincia de Tucumán a partir de 1870. Se incorpora asimismo legislación de importancia en materia electoral nacional como el Código Electoral Nacional, entre otras.
 Año - Número - Tema 1870 - Ley Nº312 - Declara necesaria la reforma
  A los efectos del artículo 79 de la misma.</description>
