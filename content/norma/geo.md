@@ -16,4 +16,4 @@ La siguiente visualización permite inspeccionar los circuitos electorales en lo
 <iframe id="iframe" src="/leaflet/leafMap.html" width="700" height="600" scrolling="no" frameborder="0"></iframe>
 
 
-En el repositorio del _Atlas Electoral de Tucumán_ puede encontrarse material para replicar esta visualización y trabajar con la geografía. Una fuente oficial de las geometrías está disponible en el sitio oficial de la [Cámara Nacional Electoral](https://mapa2.electoral.gov.ar/descargas/).
+En el repositorio del _Atlas Electoral de Tucumán_ podrá encontrarse material para replicar esta visualización y trabajar con la geografía. Una fuente oficial de las geometrías de Argentina se descargo de la [Cámara Nacional Electoral](https://mapa2.electoral.gov.ar/descargas/).

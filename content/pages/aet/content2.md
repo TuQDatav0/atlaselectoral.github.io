@@ -12,9 +12,9 @@ button: ''
 
 [**CNE**](https://mapa2.electoral.gov.ar/descargas/) - Cámara Nacional Electoral 
 
-[**Andy Tow**](https://www.andytow.com/blog/) - Atlas Electoral
-
 [**JET**](http://www.electoraltucuman.gov.ar/) - Junta Electoral Tucumán. 
+
+[**Andy Tow**](https://www.andytow.com/blog/) - Atlas Electoral
 
 [**DatAr**](http://datar.info/) - Repositorio no oficial de datos públicos abiertos de la República Argentina. 
 
