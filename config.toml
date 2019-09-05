@@ -1,5 +1,5 @@
 theme = "hugo-hero-theme"
-baseURL = "https://atlaselectoral.github.io/"
+baseURL = "http://atlaselectoral.tucuman.gov.ar/"
 languageCode = "es"
 title = "Atlas Electoral de Tucumán"
 
