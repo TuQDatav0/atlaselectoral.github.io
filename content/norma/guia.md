@@ -10,7 +10,7 @@ thumbnail: 'https://raw.githubusercontent.com/atlaselectoral/img/master/logo_aet
 images: []
 ---
 
-# Preguntas frecuentes que nos hacemos los electores. 
+# Preguntas frecuentes que nos hacemos los electores 
 
 ## ¿QUÉ SON LAS ELECCIONES?
 ---
