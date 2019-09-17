@@ -21,6 +21,17 @@
  En el repositorio del Atlas Electoral de Tucumán podrá encontrarse material para replicar esta visualización y trabajar con la geografía. Una fuente oficial de las geometrías de Argentina se descargo de la Cámara Nacional Electoral.</description>
     </item>
     
+	  
+	<item>
+      <title>Guía Electoral</title>
+      <link>http://atlaselectoral.tucuman.gov.ar/norma/guia/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>http://atlaselectoral.tucuman.gov.ar/norma/geo/</guid>
+      <description>Preguntas frecuentes que nos hacemos los electores. ¿Qué son las elecciones? Las elecciones son vitales para la democracia en tanto que su propósito es la selección de los representantes del pueblo. Entonces, una elección es un mecanismo institucionalizado a partir del cual los individuos expresan sus preferencias sobre quiénes desean que sean sus representantes en los cargos políticos.</description>
+    </item>  
+	  
+	  
     <item>
       <title>Legislación</title>
       <link>http://atlaselectoral.tucuman.gov.ar/norma/legis/</link>
